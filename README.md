@@ -20,7 +20,7 @@ A modern weather forecast application built with **React.js**, utilizing **JSON 
 - **Frontend**: React.js
 - **Backend**: JSON Server
 - **API Integration**: OpenWeather API
-- **Styling**: CSS & Responsive Design
+- **Styling**: BOOTSTRAP 5
 
 ---
 
