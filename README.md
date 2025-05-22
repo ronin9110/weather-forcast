@@ -11,7 +11,6 @@ A modern weather forecast application built with **React.js**, utilizing **JSON 
 - **Filter by Country**: Narrow down results to view weather data for cities within a selected country.
 - **Dark Mode**: Enjoy a sleek interface with light/dark mode toggling.
 - **Pagination**: Seamlessly browse large datasets of weather data without overwhelming the interface.
-- **Responsive Design**: Fully adaptable for both desktop and mobile users.
 
 ---
 
